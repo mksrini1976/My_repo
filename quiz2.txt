@@ -1,6 +1,7 @@
 What is the longest river in Africa?****** The Nile.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 A
 B
 C
@@ -14,4 +15,9 @@ C
 2
 3
 >>>>>>> prerit
+=======
+1
+2
+3
+>>>>>>> remotes/origin/prerit
 What is the hardest known natural material in the world?***** Diamond.
