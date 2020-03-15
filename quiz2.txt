@@ -1,5 +1,11 @@
 What is the longest river in Africa?****** The Nile.
+<<<<<<< HEAD
 A
 B
 C
+=======
+1
+2
+3
+>>>>>>> added numbers quiz2.txt
 What is the hardest known natural material in the world?***** Diamond.
